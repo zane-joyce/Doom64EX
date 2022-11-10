@@ -1,6 +1,4 @@
-// CMake configuration file for Microsoft Visual C++
 {
-  // See https://go.microsoft.com//fwlink//?linkid=834763 for more information about this file.
   "configurations": [
     {
       "name": "x86-Debug",
