@@ -915,7 +915,7 @@ state_t states[NUMSTATES] = {      //0x4DFF4
     /*S_749*/         { SPR_SHT2, 6, 4, A_LoadShotgun2/*ACTION_50880*/, S_750 },
     /*S_750*/         { SPR_SHT2, 7, 4, A_CloseShotgun2/*ACTION_50920*/, S_751 },
     /*S_751*/         { SPR_SHT2, 0, 5, A_ReFire/*ACTION_47388*/, S_739 },
-    /*S_752*/         { SPR_SHT2, 32777, 7, nullptr, S_000 },
+    /*S_752*/         { SPR_SHT2, 32776, 6, nullptr, S_000 },
     /*S_753*/         { SPR_CHGG, 0, 1, A_WeaponReady/*ACTION_47164*/, S_753 },
     /*S_754*/         { SPR_CHGG, 0, 1, A_Lower/*ACTION_47552*/, S_754 },
     /*S_755*/         { SPR_CHGG, 0, 1, A_Raise/*ACTION_47748*/, S_755 },
